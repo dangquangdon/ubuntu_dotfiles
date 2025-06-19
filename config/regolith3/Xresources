@@ -1,0 +1,8 @@
+session:init-hook: ~/.config/display-switch.sh
+regolith.wallpaper.file: /home/don/.local/share/backgrounds/2025-06-10-00-11-33-1344829.png
+regolith.lockscreen.wallpaper.file: /home/don/.local/share/backgrounds/2025-06-10-00-11-33-1344829.png
+i3xrocks.weather.location: Helsinki
+!regolith.look.path: /usr/share/regolith-look/ayu-dark
+regolith.look.path: /usr/share/regolith-look/lascaille
+regolith.sway.unsupported_gpu: true
+wm.bar.status_config: ~/.config/regolith3/i3status-rust/config.toml

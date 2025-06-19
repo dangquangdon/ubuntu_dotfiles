@@ -1,0 +1,6 @@
+## Session // Window Snapshot // <><Prtscr> ##
+bindsym Print exec --no-startup-id grimshot copy active
+
+## Session // Screenshot // <><Shift><Prtscr> ##
+bindsym $mod+Print exec --no-startup-id grimshot --notify savecopy anything
+

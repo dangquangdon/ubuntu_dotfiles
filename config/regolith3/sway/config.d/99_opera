@@ -1,0 +1,4 @@
+# Open Work profile in Opera
+bindsym $mod+Shift+o exec --no-startup-id opera --user-data-dir="~/Work/dev_utils/opera"
+
+
